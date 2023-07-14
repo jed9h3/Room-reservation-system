@@ -28,7 +28,7 @@ insert into Rooms value(8000,0,600,0,400);
 insert into Rooms value(9000,0,600,0,500);
 insert into Rooms value(10000,0,600,0,500);
 insert into Employees value(20,'khalid','1990-05-09');
-insert into Employees value(20,'Amier','1989-11-08');
+insert into Employees value(21,'Amier','1989-11-08');
 
 
 
